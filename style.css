@@ -1,0 +1,129 @@
+.body{
+margin: 0;
+padding: 0;
+}
+
+/*.navbar{
+width: 5vw;
+height: 100vh;
+background-color: black;
+
+}*/
+
+.section1{
+height: 65vh;
+width: 25%;
+background-color: red;
+font-size: 20px;
+}
+
+.section2{
+background-color: rgb(255, 0, 157);
+height: 65vh;
+width: 75%;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+.section3{
+display: flex;
+flex-direction: row;   
+}
+.section4{
+justify-content: space-between;
+display: flex;    
+}
+h1{
+color: white;
+font-size: 6.5em;
+flex-direction: column;
+}
+h2{
+font-size: 6.5em; 
+color: white;
+}
+
+.content_container{
+display: flex;
+align-items: center;
+}
+
+.text1 {
+width: 450px;
+font-size: 1.5em;
+}
+.text2 {
+width: 500px;   
+font-size: 1.5em;
+}
+
+.text3 {    
+width: 280px;   
+font-size: 1.5em; 
+}
+
+.text4 {
+width: 300px;   
+display: flex;
+flex-direction: row;
+margin-right: 350px;
+font-size: 1.5em;
+}
+
+.text5{
+    width: 350px;
+    font-size: 1.5em;
+}
+.text6{
+width: 340px;
+ font-size: 1.5em;    
+ margin-top: 15px;
+}
+.text7{
+width: 700px;
+font-size: 1.5em;    
+}
+
+.text8{
+width: 500px;
+font-size: 1.5em;    
+margin-top: 15px;
+}
+.text9{
+width: 280px;
+font-size: 1.5em; 
+}
+.text10{
+width: 450px;
+font-size: 1.5em; 
+margin-left: 500px;
+}
+.text1, .text2, .text3, .text4, .text5, .text6, .text7, .text8, .text9, .text10{
+font-family: "Suisse","HelveticaNeue",Helvetica,Arial,Verdana,sans-serif;
+}
+.img{
+ display: flex;
+ justify-content: space-between;
+ width: 675px;
+ height: 675px
+}
+.picture1{
+
+margin-left: 160px;
+display: flex;
+flex-direction: column;
+
+}
+.picture2{
+margin-left: 80px;
+display: flex;
+flex-direction: column;
+}
+.picture3{
+margin-top: 300px;
+margin-left: 300px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+}
